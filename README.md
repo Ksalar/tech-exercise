@@ -3,7 +3,7 @@ Fuigo Tech Exercise
 
 ### Instructions
 
-Your task is to create a working version of the task manager application using any technologies that you're comfortable with. This is an open ended exercise for you to showcase your engineering skills. Given that it is a relatively basic project, please focus on demonstrating solid programming fundamentals and good design choices both from the stand point of what technologies to use, and then how to use them.
+Your task is to create a working version of the task manager application shown in the included screenshot using any technologies that you're comfortable with. This is an open ended exercise for you to showcase your engineering skills. Given that it is a relatively basic project, please focus on demonstrating solid programming fundamentals and good design choices both from the stand point of what technologies to use, and then how to use them.
 
 The functionality is broken into three main parts:
 
