@@ -1,0 +1,21 @@
+#app {
+}
+
+#main {
+  margin: 90px;
+  padding: 20px;
+}
+
+li { 
+  cursor: pointer; 
+  font-size: 2em;
+}
+
+.task {
+  color: blue;
+}
+
+#brand {
+	color: white;
+	font-size: 2em;
+}
